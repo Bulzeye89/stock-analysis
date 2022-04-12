@@ -1,2 +1,2 @@
 # stock-analysis
-modue 2 
+module 2 
