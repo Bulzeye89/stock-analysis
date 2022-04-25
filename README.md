@@ -11,17 +11,21 @@ campaigns, we are interested in exploring relationships between both launch date
 <img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/2018%20Stock%20performance.png" width=30% height=30%>
 </p>
 
-<img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/Run%20Time%202017%20Original%20code%20.png" width=50% height=50%>
 
-
-<img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/Run%20time%202018%20original%20code.png" width=50% height=50%>
 
 
 ## Results
 
-<img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png" width=50% height=50%>
+<p float="left">
+<img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/Run%20Time%202017%20Original%20code%20.png" width=30% height=30%>
+<img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png" width=30% height=30%>
+</p>  
 
-<img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png" width=50% height=50%>
+
+<p float="left">
+<img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/Run%20time%202018%20original%20code.png" width=30% height=30%>
+<img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png" width=30% height=30%>
+</p>  
 
 ## Summary
 
