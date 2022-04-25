@@ -15,14 +15,10 @@ He has now inquired if we can expand the data set to include the entire stock ma
 ## Results
 
 <p float="left">
-<img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/Run%20Time%202017%20Original%20code%20.png" width=30% height=30%>
-<img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png" width=30% height=30%>
-</p>  
-
-
-<p float="left">
-<img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/Run%20time%202018%20original%20code.png" width=30% height=30%>
-<img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png" width=30% height=30%>
+<img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/Run%20Time%202017%20Original%20code%20.png" width=25% height=25%>
+<img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png" width=25% height=25%>
+<img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/Run%20time%202018%20original%20code.png" width=25% height=25%>
+<img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png" width=25% height=25%>
 </p>  
 
 ## Summary
