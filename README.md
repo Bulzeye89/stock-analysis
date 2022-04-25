@@ -3,7 +3,7 @@
 
 ### Purpose and Background
 
-Using the stock data from Steve [(download here)](https://github.com/Bulzeye89/stock-analysis/blob/main/VBA_Challenge.xlsm) for 12 stocks for the years of 2017 and 2018, I was able to create a VBA script while working through module 2.  The macro from this VBA script allowed Steve, with a click of a button, to easily analyze the performance of the 12 stocks in the research for his parents.  
+Using the stock data from Steve [(download here)](https://github.com/Bulzeye89/stock-analysis/blob/main/VBA_Challenge.xlsm) for 12 stocks for the years of 2017 and 2018, I was able to create a VBA script while working through module 2.  The macro from this VBA script allowed Steve, with a click of a button, to easily analyze the performance of the 12 stocks in the research for his parents.  This analysis can be seen below.  
 <p float="left">
 <img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/2017%20Stock%20performance.png" width=30% height=30%>
 <img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/2018%20Stock%20performance.png" width=30% height=30%>
