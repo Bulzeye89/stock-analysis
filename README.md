@@ -56,6 +56,7 @@ The increase in efficiency can be seen in the timer function in the MsgBox that 
 ## Summary
 
 In general, the biggest advantage of refactoring code is that it can make it more efficient, cleaner, less complex and thus easier to maintian.  The biggest downside is that it can be very time consuming, especially if you are refactoring code that isn't your own or that you haven't worked with in some time.  
-In 
+While I was working through refactoring this code for the stock analysis, it was very time consuming to debug my logic and errors as I'm still learning the syntax to essentially save microseconds to run a code.  It was very good learning process to show that there are different paths to get to the same point and that there is an art in structuring the logic of code.  
+In addition, the original analysis had three different buttons in excel to basically run the 3 different macros.  With the refactored code, I was able to combine all three buttons/macros into one as illustrated below.  
 
 <img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/Stock%20analysis%20buttons.png" width=50% height=50%>
