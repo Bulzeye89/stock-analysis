@@ -6,10 +6,10 @@
 Using the stock data from Steve [(download here)](https://github.com/Bulzeye89/stock-analysis/blob/main/VBA_Challenge.xlsm) of over 4,000 
 campaigns, we are interested in exploring relationships between both launch dates and funding goals to how different campaigns fared.  
 
-
+<p float="left">
 <img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/2017%20Stock%20performance.png" width=30% height=30%>
 <img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/2018%20Stock%20performance.png" width=30% height=30%>
-
+</p>
 
 <img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/Run%20Time%202017%20Original%20code%20.png" width=50% height=50%>
 
