@@ -55,4 +55,7 @@ The increase in efficiency can be seen in the timer function in the MsgBox that 
 
 ## Summary
 
+In general, the biggest advantage of refactoring code is that it can make it more efficient, cleaner, less complex and thus easier to maintian.  The biggest downside is that it can be very time consuming, especially if you are refactoring code that isn't your own or that you haven't worked with in some time.  
+In 
+
 <img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/Stock%20analysis%20buttons.png" width=50% height=50%>
