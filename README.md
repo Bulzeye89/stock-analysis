@@ -16,23 +16,34 @@ He has now inquired if we can expand the data set to include the entire stock ma
 
 In our original code, the macro had to run through the data 12 times, once for each ticker.  The biggest difference in our refactored code is we took this:
 
-  'Output the data for the current ticker
-    
-    Worksheets("All Stocks Analysis").Activate    
-      Cells(4 + I, 1).Value = ticker
-      Cells(4 + I, 2).Value = totalVolume
-      Cells(4 + I, 3).Value = endingPrice / startingPrice - 1
+    'Output the data for the current ticker    
+        Worksheets("All Stocks Analysis").Activate    
+          Cells(4 + I, 1).Value = ticker
+          Cells(4 + I, 2).Value = totalVolume
+          Cells(4 + I, 3).Value = endingPrice / startingPrice - 1
       
  and created 3 output arrays with this code
  
-    1b) Create three output array
-      Dim tickerVolumes(12) As Long    
-      Dim tickerStartingprices(12) As Single    
-      Dim tickerEndingprices(12) As Single
+    'Create three output array
+        Dim tickerVolumes(12) As Long    
+        Dim tickerStartingprices(12) As Single    
+        Dim tickerEndingprices(12) As Single
     
 Doing this, allowed us to insert code inside our loop to write a script that increases the tickerIndex if the next row’s ticker doesn’t match the previous row’s ticker
 
-    
+    'Increase the tickerIndex.
+        tickerIndex = tickerIndex + 1
+        
+and more efficiently create the output for the Ticker, Total Daily Volume, and Return using the code below.  
+
+    'Loop through your arrays to output the Ticker, Total Daily Volume, and Return.
+        For k = 0 To 11
+          Worksheets("All Stocks Analysis").Activate             
+          Cells(4 + k, 1).Value = tickers(k)    
+          Cells(4 + k, 2).Value = tickerVolumes(k)    
+          Cells(4 + k, 3).Value = tickerEndingprices(k) / tickerStartingprices(k) - 1
+          
+The increase in efficiency can be seen in the timer function in the MsgBox that is in both the original code and the refactored code that can be seen in images below. Both 2017 and 2018 stock analysis using the original code took roughly 0.27 seconds while both years using the refactored code took roughly .07 seconds.  
 
 
 <p float="left">
