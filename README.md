@@ -9,7 +9,7 @@ Using the stock data from Steve [(download here)](https://github.com/Bulzeye89/s
 <img src="https://github.com/Bulzeye89/stock-analysis/blob/main/Resources/2018%20Stock%20performance.png" width=30% height=30%>
 </p>
 
-He has now inquired if 
+He has now inquired if we can expand the data set to include the entire stock market over the last few years.  While our original code ran fairly quickly, with such a larger data set, the code could get bogged down.  Our first step in accomplishing this goal for him is to dive back into our code and refactor it so that it can run more efficiently. 
 
 
 ## Results
